@@ -11,6 +11,17 @@ SecureProfileManager is a Java application that provides user authentication and
 
 - User Profile Management: Users can view and update their profiles, including changing their passwords.
 
+## Demo-Video
+
+
+
+## Demo-Failure
+
+
+## Demo-Success
+
+## Demo-Full Registration Info Saved in MySQL database
+
 ## Prerequisites
 
 To run the SecureProfileManager application, you need the following software and tools:
