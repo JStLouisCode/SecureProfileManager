@@ -17,7 +17,7 @@ To run the SecureProfileManager application, you need the following software and
 
 - Java Development Kit (JDK): Install the latest version of the JDK to execute Java applications.
 
-- MySQL Database: Set up a MySQL database for storing user data. You should have the database URL, username, and password.
+- MySQL Database: Set up a MySQL database for storing and reading user data. You should have the database URL, username, and password.
 
 - Dependencies: Ensure that you have the necessary external JAR files, such as the MySQL JDBC driver, to connect to the database.
 
