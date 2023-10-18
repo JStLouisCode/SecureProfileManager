@@ -43,10 +43,6 @@ To run the SecureProfileManager application, you need the following software and
 
 - You can also update your profile and change your password from the application.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This application uses the MySQL database and the SHA-256 hashing algorithm for password security.
